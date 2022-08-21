@@ -506,7 +506,7 @@ input {
     }
 
     nav ul li a {
-        font-size: 13px;
+        font-size: 10px;
     }
 
     .hero p {
@@ -517,7 +517,7 @@ input {
         width: 250px;
         position: relative;
         top: 5%;
-        margin-left: 18%;
+        margin-left: 11%;
     }
 
     .illustration {
@@ -544,10 +544,11 @@ input {
         margin-top: 17px;
         margin-right: 8px;
         padding: 5px 18px;
+        font-size: 13px;
     }
 
     .page2 {
-        margin-top: 6%;
+        margin-top: 15%;
     }
 
     .illustration {
@@ -580,7 +581,7 @@ input {
     }
 
     .skills {
-        margin-top: 25%;
+        margin-top: 44%;
     }
 
     .skills h3 {
@@ -589,32 +590,32 @@ input {
 
     .skills ul {
         position: relative;
-        margin-left: 10%;
+        margin-left: 5%;
         line-height: 30px;
         list-style: none;
-        font-size: 15px;
+        font-size: 13px;
         margin-bottom: 0%;
     }
 
     .progress-bar {
         width: 250px;
+        height: 6px;
     }
     svg {
         margin-top: 0;
         width: 100%;
-        height: 11%;
+        /* height: 11%; */
     }
-
     .page2 {
-        height: 510px;
+        height: 530px;
     }
 
     .heading h3 {
         font-size: 24px;
     }
-
     .heading a {
-        margin-left: 35%;
+        margin-left: 30%;
+        font-size: 13px;
     }
 
     .page3 {
@@ -635,6 +636,7 @@ input {
 
     .page3 a {
         margin: 10px;
+        font-size: 12px;
     }
 
     .page3 p {
@@ -665,16 +667,30 @@ input {
         align-items: center;
         flex-wrap: wrap;
         flex-direction: column-reverse;
-        margin-left: 0%;
+        margin-left: -13%;
         margin-top: 2%;
+    }
+    label{
+        margin-left: 20%;
+    }
+    input{
+        width: 80%;
+        margin-left: 30%;
+        font-size: 12px;
+    }
+    .form button{
+        font-size: 13px;
+        margin-top: 0px;
+        margin-left: 20%;
     }
 
     .lastimg img {
-        height: 200px;
+        height: 180px;
+        margin-left: 15%;
     }
 
     .footer ul {
-        font-size: 13px;
+        font-size: 12px;
     }
 
 
